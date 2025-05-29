@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SS5WXF69MY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SS5WXF69MY');
+</script>
   <?php include('./includes/head-links.php'); ?>
 
     <!-- Titre et description -->
     <title>
-      Guide des vignobles des Alpilles 2025 | Allo Taxi Sud Fontvieille - Votre
-      taxi 7 jours/7 à Fontvieille et ses alentours
+      Guide des vignobles des Alpilles 2025 | Allo Taxi Sud Fontvieille –
+      Œnotourisme et transports dans les Bouches-du-Rhône
     </title>
     <meta
       name="description"
@@ -18,7 +26,7 @@
 
     <link
       rel="canonical"
-      href="https://allo-taxi-fontvieille.fr/guide-vignobles-alpilles-2025.php" />
+      href="https://allo-taxi-sud.com/guide-vignobles-alpilles-2025.php" />
 
 
     <!-- Open Graph (Facebook & LinkedIn) -->
@@ -29,7 +37,7 @@
     <meta property="og:type" content="article" />
     <meta
       property="og:url"
-      content="https://allo-taxi-fontvieille.fr/guide-vignobles-alpilles-2025.php" />
+      content="https://allo-taxi-sud.com/guide-vignobles-alpilles-2025.php" />
 
 
     <!-- Twitter Card -->
@@ -64,8 +72,8 @@
 
       <div class="menu-villes card">
         <ul>
-          <li><a class="button-link" href="#fontvieille">Fontvieille</a></li>
           <li><a class="button-link" href="#tarascon">Tarascon</a></li>
+          <li><a class="button-link" href="#fontvieille">Fontvieille</a></li>
           <li>
             <a class="button-link" href="#saint-etienne-du-gres"
               >St-Étienne-du-Grès</a
@@ -88,17 +96,6 @@
         </ul>
       </div>
 
-      <section class="card" id="fontvieille">
-        <h2>🍷 Fontvieille</h2>
-        <h3>Château d’Estoublon</h3>
-        <p>
-          Implanté depuis 1489 au cœur des Alpilles, ce domaine de 300 hectares
-          allie viticulture et oléiculture. Il propose des visites de ses
-          installations, des dégustations de vins et d'huiles d'olive, ainsi
-          qu'un restaurant raffiné.
-        </p>
-      </section>
-
       <section class="card" id="tarascon">
         <h2>🍇 Tarascon</h2>
         <h3>Domaine du Grand Mas de Lansac</h3>
@@ -113,6 +110,16 @@
           Ce domaine de 150 hectares, situé le long du Rhône, produit des vins
           en IGP Alpilles. La gamme "Violon d’Ingres" se décline en rouge, rosé
           et blanc, reflétant le caractère particulier de son terroir.
+        </p>
+      </section>
+      <section class="card" id="fontvieille">
+        <h2>🍷 Fontvieille</h2>
+        <h3>Château d’Estoublon</h3>
+        <p>
+          Implanté depuis 1489 au cœur des Alpilles, ce domaine de 300 hectares
+          allie viticulture et oléiculture. Il propose des visites de ses
+          installations, des dégustations de vins et d'huiles d'olive, ainsi
+          qu'un restaurant raffiné.
         </p>
       </section>
 
@@ -212,10 +219,9 @@
           <a
             class="button-link"
             href="./demande-de-devis.php"
-            class="button-link"
             ><i class="bi bi-envelope"></i> Demander un devis</a
           >
-          <a class="button-link" href="tel:+33617432959" class="button-link"
+          <a class="button-link" href="tel:0617432959" 
             ><i class="bi bi-phone"></i> Réservation express</a
           >
         </div>

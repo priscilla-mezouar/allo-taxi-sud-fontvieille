@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SS5WXF69MY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-SS5WXF69MY');
+</script>
   <?php include('./includes/head-links.php'); ?>
 
     <!-- Titre et description -->
@@ -17,7 +25,7 @@
       content="confidentialité, politique de confidentialité" />
     <link
       rel="canonical"
-      href="https://allo-taxi-fontvieille.fr/politique-de-confidentialite.php" />
+      href="https://allo-taxi-sud.com/politique-de-confidentialite.php" />
 
 
     <!-- Open Graph (Facebook & LinkedIn) -->
@@ -30,7 +38,7 @@
     <meta property="og:type" content="article" />
     <meta
       property="og:url"
-      content="https://allo-taxi-fontvieille.fr/politique-de-confidentialite.php" />
+      content="https://allo-taxi-sud.com/politique-de-confidentialite.php" />
 
 
     <!-- Twitter Card -->

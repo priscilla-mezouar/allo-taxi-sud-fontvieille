@@ -13,11 +13,13 @@ echo'
               <div class="actu-item">
                 <i class="bi bi-tags"></i>
                 <div>
-                  <h3>Guide des festivités de Fontvieille 2025 </h3>
+                  <h3>Guide des festivités de Fontvieille 2025</h3>
                   <p>
-                    Cet année, Fontvieille sera le théâtre de nombreuses
-                    festivités à ne pas manquer. Notre guide vous
-                    aidera à planifier votre séjour pour profiter pleinement des évènements culturels et
+                    Cet été, Fontvieille sera le théâtre de nombreuses
+                    festivités à ne pas manquer : concerts, dégustations de vin,
+                    marchés artisanaux et feux d\'artifice. Notre guide vous
+                    aidera à planifier votre séjour pour profiter pleinement de
+                    cette saison estivale riche en évènements culturels et
                     divertissements festifs.
                   </p>
                 </div>

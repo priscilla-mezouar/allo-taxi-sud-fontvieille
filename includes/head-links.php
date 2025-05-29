@@ -21,13 +21,13 @@ echo'
 
     <meta
       property="og:image"
-      content="https://allo-taxi-fontvieille.fr/assets/images/homepage.webp" />
+      content="https://allo-taxi-sud.com/assets/images/homepage.webp" />
     <meta property="og:locale" content="fr_FR" />
 
     <meta name="twitter:card" content="summary_large_image" />    
     <meta
       name="twitter:image"
-      content="https://allo-taxi-fontvieille.fr/assets/images/homepage.webp" />
+      content="https://allo-taxi-sud.com/assets/images/homepage.webp" />
     
     <meta name="apple-mobile-web-app-title" content="Allo Taxi Sud Fontvieille" />
     <meta name="mobile-web-app-capable" content="yes" />
