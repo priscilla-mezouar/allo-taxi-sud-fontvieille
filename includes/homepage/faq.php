@@ -18,7 +18,7 @@ echo'
                 <ul>
                   <li>
                     <a href="tel:0617432959"
-                      >Allo Taxi Sud & Allo Taxi Sud Fontvieille : 06.17.43.29.59</a
+                      >Allo Taxi Sud & Allo Taxi Sud Alpilles : 06.17.43.29.59</a
                     >
                   </li>
                   <li>
