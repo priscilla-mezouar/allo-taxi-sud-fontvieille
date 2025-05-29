@@ -175,7 +175,7 @@
             href="./demande-de-devis.php"
             ><i class="bi bi-envelope"></i> Demander un devis</a
           >
-          <a class="button-link" href="tel:0617432959"
+          <a class="button-link" href="tel:+33617432959"
             ><i class="bi bi-phone"></i> Réservation express</a
           >
         </div>
