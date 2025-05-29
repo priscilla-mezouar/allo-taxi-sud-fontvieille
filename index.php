@@ -22,7 +22,7 @@
     <meta
       name="keywords"
       content="taxi Fontvieille, VTC Fontvieille, transfert aéroport, taxi gare, transport médical, taxi tourisme, Allo Taxi Sud Fontvieille" />
-    <link rel="canonical" href="https://allo-taxi-sud.com/" />
+    <link rel="canonical" href="https://allo-taxi-fontvieille.fr/" />
 
     <!-- Open Graph (Facebook & LinkedIn) -->
     <meta
@@ -32,7 +32,7 @@
     property="og:description"
     content="Transport de qualité 24h/24 et 7j/7 sur réservation à Fontvieille : Taxis, transferts aéroports, gares, tourisme, évènements, transport médical." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://allo-taxi-sud.com/" />
+    <meta property="og:url" content="https://allo-taxi-fontvieille.fr/" />
 
     <!-- Twitter Card -->
     <meta

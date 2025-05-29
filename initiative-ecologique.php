@@ -26,7 +26,7 @@
 
     <link
       rel="canonical"
-      href="https://www.allo-taxi-sud.com/initiative-ecologique.php" />
+      href="https://www.allo-taxi-fontvieille.fr/initiative-ecologique.php" />
 
 
     <!-- Open Graph (Facebook & LinkedIn) -->
@@ -37,7 +37,7 @@
     <meta property="og:type" content="article" />
     <meta
       property="og:url"
-      content="https://www.allo-taxi-sud.com/initiative-ecologique.php" />
+      content="https://www.allo-taxi-fontvieille.fr/initiative-ecologique.php" />
 
     <!-- Twitter Card -->
     <meta name="twitter:title" content="Initiative écologique" />

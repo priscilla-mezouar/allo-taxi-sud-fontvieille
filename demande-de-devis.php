@@ -25,7 +25,7 @@
       content="demande de devis taxi, taxi Fontvieille, taxi VTC Fontvieille, transport médical, devis transport VSL, devis taxi mariage, Allo Taxi Sud Fontvieille, devis taxi personnalisé" />
     <link
       rel="canonical"
-      href="https://allo-taxi-sud.com/demande-de-devis.php" />
+      href="https://allo-taxi-fontvieille.fr/demande-de-devis.php" />
 
     <!-- Open Graph (Facebook & LinkedIn) -->
     <meta
@@ -37,7 +37,7 @@
     <meta property="og:type" content="website" />
     <meta
     property="og:url"
-      content="https://allo-taxi-sud.com/demande-de-devis.php" />
+      content="https://allo-taxi-fontvieille.fr/demande-de-devis.php" />
 
     <!-- Twitter Card -->
     <meta
@@ -312,8 +312,8 @@
               <li>
                 <i class="bi bi-envelope-paper"></i>
                 <span>Email :</span><br />
-                <a href="mailto:contact@allo-taxi-sud.com">
-                  contact@allo-taxi-sud.com</a
+                <a href="mailto:contact@allo-taxi-fontvieille.fr">
+                  contact@allo-taxi-fontvieille.fr</a
                 >
               </li>
             </ul>

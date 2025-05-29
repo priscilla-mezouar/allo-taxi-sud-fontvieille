@@ -81,8 +81,8 @@ echo'
                   <p>
                     Pour effectuer une réservation ou demander un devis, vous
                     pouvez nous contacter par e-mail à
-                    <a href="mailto:contact@allo-taxi-sud.com"
-                      >contact@allo-taxi-sud.com</a
+                    <a href="mailto:contact@allo-taxi-fontvieille.fr"
+                      >contact@allo-taxi-fontvieille.fr</a
                     >, via
                     <a href="./demande-de-devis.php"
                       >le formulaire de contact</a

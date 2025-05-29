@@ -26,7 +26,7 @@
 
     <link
       rel="canonical"
-      href="https://allo-taxi-sud.com/guide-vignobles-alpilles-2025.php" />
+      href="https://allo-taxi-fontvieille.fr/guide-vignobles-alpilles-2025.php" />
 
 
     <!-- Open Graph (Facebook & LinkedIn) -->
@@ -37,7 +37,7 @@
     <meta property="og:type" content="article" />
     <meta
       property="og:url"
-      content="https://allo-taxi-sud.com/guide-vignobles-alpilles-2025.php" />
+      content="https://allo-taxi-fontvieille.fr/guide-vignobles-alpilles-2025.php" />
 
 
     <!-- Twitter Card -->

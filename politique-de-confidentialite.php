@@ -25,7 +25,7 @@
       content="confidentialité, politique de confidentialité" />
     <link
       rel="canonical"
-      href="https://allo-taxi-sud.com/politique-de-confidentialite.php" />
+      href="https://allo-taxi-fontvieille.fr/politique-de-confidentialite.php" />
 
 
     <!-- Open Graph (Facebook & LinkedIn) -->
@@ -38,7 +38,7 @@
     <meta property="og:type" content="article" />
     <meta
       property="og:url"
-      content="https://allo-taxi-sud.com/politique-de-confidentialite.php" />
+      content="https://allo-taxi-fontvieille.fr/politique-de-confidentialite.php" />
 
 
     <!-- Twitter Card -->

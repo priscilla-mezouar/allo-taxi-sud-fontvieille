@@ -26,7 +26,7 @@
 
     <link
       rel="canonical"
-      href="https://allo-taxi-sud.com/nouveaux-partenariats-2025.php" />
+      href="https://allo-taxi-fontvieille.fr/nouveaux-partenariats-2025.php" />
 
 
 
@@ -41,7 +41,7 @@
 
     <meta
       property="og:url"
-      content="https://allo-taxi-sud.com/nouveaux-partenariats-2025.php" />
+      content="https://allo-taxi-fontvieille.fr/nouveaux-partenariats-2025.php" />
 
     <!-- Twitter Card -->
     <meta name="twitter:title" content="Nouveaux partenariats 2025" />

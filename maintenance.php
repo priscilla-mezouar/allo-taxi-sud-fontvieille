@@ -25,7 +25,7 @@
 
     <link
       rel="canonical"
-      href="https://allo-taxi-sud.com/maintenance.php" />
+      href="https://allo-taxi-fontvieille.fr/maintenance.php" />
 
 
     <!-- Open Graph (Facebook & LinkedIn) -->
@@ -38,7 +38,7 @@
     <meta property="og:type" content="website" />
     <meta
       property="og:url"
-      content="https://allo-taxi-sud.com/maintenance.php" />
+      content="https://allo-taxi-fontvieille.fr/maintenance.php" />
 
     <!-- Twitter Card -->
     <meta
