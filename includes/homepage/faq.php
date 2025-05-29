@@ -17,8 +17,8 @@ echo'
                 </p>
                 <ul>
                   <li>
-                    <a href="tel:0617432959"
-                      >Allo Taxi Sud & Allo Taxi Sud Alpilles : 06.17.43.29.59</a
+                   <a href="tel:0667319832"
+                      >Allo Taxi Sud & Allo Taxi Sud Alpilles : 06.67.31.98.32</a
                     >
                   </li>
                   <li>
@@ -91,8 +91,8 @@ echo'
                   </p>
                   <ul>
                     <li>
-                    <a href="tel:0617432959"
-                      >Allo Taxi Sud & Allo Taxi Sud Alpilles : 06.17.43.29.59</a
+                    <a href="tel:0667319832"
+                      >Allo Taxi Sud & Allo Taxi Sud Alpilles : 06.67.31.98.32</a
                     >
                   </li>
                     <li>

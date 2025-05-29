@@ -272,8 +272,8 @@
               <li>
                 <i class="bi bi-phone"></i>
                 <a href="tel:0617432959">
-                  <span> Allo Taxi Sud Fontvieille : </span> <br />
-                  06.17.43.29.59</a
+                  <span> Allo Taxi Sud & Allo Taxi Sud Alpilles : </span> <br />
+                  06.67.31.98.32</a
                 >
               </li>
               <li>
