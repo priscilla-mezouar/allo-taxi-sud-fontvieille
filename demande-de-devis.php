@@ -271,7 +271,7 @@
             <ul>
               <li>
                 <i class="bi bi-phone"></i>
-                <a href="tel:+33617432959">
+                <a href="tel:+33667319832">
                   <span> Allo Taxi Sud & Allo Taxi Sud Alpilles : </span> <br />
                   06.67.31.98.32</a
                 >
